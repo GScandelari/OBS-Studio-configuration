@@ -117,7 +117,7 @@ end
 
 -- Função chamada script_description retorna a descrição mostrada ao usuário
 function script_description()
-	return "Configura uma fonte de texto para receber uma mensagem específica por um determinado tempo. \n\n Desenvolvido por Guilherme S. Scandelari"
+	return "ScreenCap - versão 1.0 \n\nConfigura uma fonte de texto para receber uma mensagem específica por um determinado tempo. \n\n Desenvolvido por Guilherme S. Scandelari"
 end
 
 -- Função chamada script_update será chamada quando a configuração for alterada
